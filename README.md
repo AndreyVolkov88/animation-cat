@@ -1,9 +1,9 @@
-## *how-to-make-photo* 
-# **"[Pfoto](https://andreyvolkov88.github.io/how-to-make-photo/)"**
+## *Cat animation* 
+# **"[CAT](https://andreyvolkov88.github.io/animation-cat/)"**
 ------
 
 ## Описание проекта
- "how-to-make-photo" представляет собой одностраничный сайт для любителей фотографий.
+ "Cat" представляет собой одностраничный сайт для любителей котиков.
 
 Применяемые технологии:
 
@@ -14,4 +14,4 @@
 
 ________
 ### Опубликованный проект
-Ознакомиться с проектом вы сможете по ссылке [how-to-make-photo](https://andreyvolkov88.github.io/how-to-make-photo/).
+Ознакомиться с проектом вы сможете по ссылке [Cat](https://andreyvolkov88.github.io/animation-cat/).
